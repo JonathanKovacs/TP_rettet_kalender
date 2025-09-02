@@ -1,0 +1,36 @@
+name: TP iCal Filter
+on:
+  schedule:
+    - cron: "0 * * * *"    # hourly
+  workflow_dispatch:
+
+permissions:
+  contents: write          # needed to push to main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Run filter
+        env:
+          TP_ICAL_URL: ${{ secrets.TP_ICAL_URL }}
+        run: python tp_filter.py
+
+      # Publish ONLY filtered.ics to the repository root on main
+      - name: Publish filtered.ics to main
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: main
+          publish_dir: .
+          destination_dir: .
+          enable_jekyll: false
+          keep_files: true
+          exclude_assets: |
+            !(filtered.ics)
