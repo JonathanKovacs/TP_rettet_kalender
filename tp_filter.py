@@ -5,23 +5,23 @@ from dataclasses import dataclass
 from typing import Dict, List
 
 # ----------------- CONFIG -----------------
-# Supplied via GitHub Actions secret (Settings → Secrets → Actions → TP_ICAL_URL)
+# TP URL is supplied via GitHub Actions secret: TP_ICAL_URL
 ICAL_SUBSCRIPTION_URL = os.getenv("TP_ICAL_URL", "")
 
-# What to keep for each course (group-like items only).
-# Lectures/Seminars/Workshops for listed courses are kept automatically.
+# What to keep for each course (only affects group-like items).
+# Lectures/Seminars/Workshops for listed courses are always kept.
 COURSE_KEEP_RULES: Dict[str, List[str]] = {
-    "INF102": ["time 7"],     # matches "Aktiv time 7" or "Dropp-inn time 7"
+    "INF102": ["time 7"],     # matches both "Aktiv time 7" and "Dropp-inn time 7"
     "INF113": ["gruppe 4"],
     "INF214": ["gruppe 1"],
     "MAT111": ["gruppe 02"],
-    "MAT221": ["gruppe"],     # keep your MAT221 group (any group)
+    "MAT221": ["gruppe"],     # keep MAT221 group(s)
 }
 
 # Words that indicate group-like sessions
 GROUP_WORDS = [
     "gruppe", "group", "seminargruppe", "workshopgruppe",
-    "aktiv time", "dropp-inn time", "drop-in time", "drop in time",
+    "aktiv time", "dropp-inn time", "dropp inn time", "drop-in time", "drop in time",
     "lab", "øving", "övning", "exercise class", "class group"
 ]
 
@@ -41,7 +41,8 @@ def http_get(url: str) -> str:
 
 
 def unfold_ical(text: str) -> str:
-    return re.sub(r"(?:\r?\n)[ \t]", "", text)  # RFC5545 unfold
+    # RFC5545 folding: CRLF + leading space/tab on next line → unfold
+    return re.sub(r"(?:\r?\n)[ \t]", "", text)
 
 
 def norm(s: str) -> str:
@@ -49,9 +50,8 @@ def norm(s: str) -> str:
     s = s.lower()
     s = s.replace("–", "-").replace("—", "-")
     s = s.replace("drop-in", "dropp-inn").replace("drop in", "dropp-inn")
-    # unify ' 07' -> ' 7' etc
+    # normalize zero-padded numbers: " 07" -> " 7"
     s = re.sub(r"\b0+(\d)\b", r"\1", s)
-    # collapse multiple spaces
     s = re.sub(r"\s+", " ", s).strip()
     return s
 
@@ -103,21 +103,31 @@ def filter_events(events: List[Event]) -> List[Event]:
         if code not in COURSE_KEEP_RULES:
             continue  # drop courses you didn't list
 
-        if ev.is_always_keep:
+        s = norm(ev.summary)
+
+        # --- SPECIAL GUARD for INF102: only keep Aktiv/Dropp-inn "time 7"
+        if code == "INF102" and ("time" in s) and ("aktiv" in s or "dropp-inn" in s or "dropp inn" in s):
+            if "time 7" in s:      # norm() already turns "07" into "7"
+                kept.append(ev)
+            continue
+        # ---------------------------------------------------------------
+
+        # Always-keep items (lectures, seminar, regneverksted, workshop…)
+        if any(w in s for w in [norm(w) for w in ALWAYS_KEEP_WORDS]):
             kept.append(ev)
             continue
 
-        if ev.is_group_like:
+        # Group-like: keep only when pattern matches
+        if any(w in s for w in [norm(w) for w in GROUP_WORDS]):
             patterns = [norm(p) for p in COURSE_KEEP_RULES.get(code, []) if p.strip()]
-            if not patterns:
-                continue  # you chose no groups for this course → drop group-like
-            s = norm(ev.summary)
-            if any(p in s for p in patterns):
+            if patterns and any(p in s for p in patterns):
                 kept.append(ev)
+            # else drop
             continue
 
-        # default: keep if it's part of a listed course
+        # Default: keep if it belongs to a listed course
         kept.append(ev)
+
     return kept
 
 
@@ -136,11 +146,14 @@ def rebuild_ical(original_text: str, kept_events: List[Event]) -> str:
         block = ev.raw
         if not block.strip().endswith("END:VEVENT"):
             m = re.search(r"BEGIN:VEVENT.*?END:VEVENT", block, flags=re.DOTALL)
-            if m: block = m.group(0)
+            if m:
+                block = m.group(0)
         body += block.strip() + "\n"
 
-    if "BEGIN:VCALENDAR" not in header: header = "BEGIN:VCALENDAR\n" + header
-    if "END:VCALENDAR" not in footer: footer = footer.rstrip() + "\nEND:VCALENDAR\n"
+    if "BEGIN:VCALENDAR" not in header:
+        header = "BEGIN:VCALENDAR\n" + header
+    if "END:VCALENDAR" not in footer:
+        footer = footer.rstrip() + "\nEND:VCALENDAR\n"
     return header + body + footer
 
 
