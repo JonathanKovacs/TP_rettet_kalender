@@ -2,30 +2,22 @@ name: TP iCal Filter
 on:
   schedule:
     - cron: "0 * * * *"   # kjører hver time
-  workflow_dispatch:       # lar deg kjøre manuelt fra Actions-fanen
+  workflow_dispatch:       # lar deg starte manuelt
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
+      - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
       - name: Run filter
-        run: |
-          pip install requests
-          python tp_filter.py
-
-      - name: Upload artifact
-        uses: actions/upload-artifact@v4
-        with:
-          name: filtered-ics
-          path: filtered.ics
+        env:
+          TP_ICAL_URL: ${{ secrets.TP_ICAL_URL }}
+        run: python tp_filter.py
 
       - name: Publish to Pages
         if: github.ref == 'refs/heads/main'
