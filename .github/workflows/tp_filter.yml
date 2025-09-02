@@ -1,8 +1,11 @@
 name: TP iCal Filter
 on:
   schedule:
-    - cron: "0 * * * *"   # kjører hver time
-  workflow_dispatch:       # lar deg starte manuelt
+    - cron: "0 * * * *"    # hver time
+  workflow_dispatch:
+
+permissions:
+  contents: write          # må ha skrivetilgang for å pushe til main
 
 jobs:
   build:
@@ -19,11 +22,12 @@ jobs:
           TP_ICAL_URL: ${{ secrets.TP_ICAL_URL }}
         run: python tp_filter.py
 
-      - name: Publish to Pages
-        if: github.ref == 'refs/heads/main'
+      - name: Publish filtered.ics to main
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: .
+          publish_branch: main          # <- viktig: publiser til main
+          publish_dir: .                # filen filtered.ics ligger i repo-roten
+          destination_dir: .            # legg den i roten
           enable_jekyll: false
-          destination_dir: .
+          commit_message: "chore: publish filtered.ics [skip ci]"
