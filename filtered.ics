@@ -3,8 +3,8 @@ VERSION:2.0
 PRODID:-//UiO//TP
 X-WR-CALNAME:INF161_1-MAT221_1-MAT111_1_25h
 BEGIN:VEVENT
-UID:168c7278fe7c7d
-DTSTAMP:20250914T203735Z
+UID:168c72f14a7f15
+DTSTAMP:20250914T210940Z
 DTSTART:20250814T091500Z
 DTEND:20250814T100000Z
 LOCATION:Realfagbygget Auditorium 1
@@ -12,8 +12,8 @@ SUMMARY:MAT111 Forelesning \nOrienteringsmøte
 DESCRIPTION:MAT111\nForelesning \nOrienteringsmøte.\nB.I. Dundas\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nAuditorium 1: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:UC7B
 END:VEVENT
 BEGIN:VEVENT
-UID:268c7278fe7cda
-DTSTAMP:20250914T203735Z
+UID:268c72f14a7f5b
+DTSTAMP:20250914T210940Z
 DTSTART:20250819T061500Z
 DTEND:20250819T080000Z
 LOCATION:Høyteknologisenteret Stort auditorium
@@ -21,8 +21,8 @@ SUMMARY:INF161 Forelesning
 DESCRIPTION:INF161\nForelesning .\nP. Parviainen\n\nHøyteknologisenteret: https://link.mazemap.com/34NC9sKG\nStort auditorium: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=351:209M3
 END:VEVENT
 BEGIN:VEVENT
-UID:368c7278fe7cee
-DTSTAMP:20250914T203735Z
+UID:368c72f14a7f6f
+DTSTAMP:20250914T210940Z
 DTSTART:20250819T061500Z
 DTEND:20250819T080000Z
 LOCATION:Realfagbygget Auditorium 1
@@ -30,8 +30,8 @@ SUMMARY:MAT111 Forelesning
 DESCRIPTION:MAT111\nForelesning .\nB.I. Dundas\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nAuditorium 1: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:UC7B
 END:VEVENT
 BEGIN:VEVENT
-UID:468c7278fe7cff
-DTSTAMP:20250914T203735Z
+UID:468c72f14a7f7f
+DTSTAMP:20250914T210940Z
 DTSTART:20250819T101500Z
 DTEND:20250819T120000Z
 LOCATION:Realfagbygget Auditorium 4
@@ -39,8 +39,8 @@ SUMMARY:MAT221 Forelesning
 DESCRIPTION:MAT221\nForelesning .\nG. Fløystad\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nAuditorium 4: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:4E12F
 END:VEVENT
 BEGIN:VEVENT
-UID:568c7278fe7d0f
-DTSTAMP:20250914T203735Z
+UID:568c72f14a7f8e
+DTSTAMP:20250914T210940Z
 DTSTART:20250820T081500Z
 DTEND:20250820T100000Z
 LOCATION:Realfagbygget Auditorium 1
@@ -48,8 +48,8 @@ SUMMARY:MAT111 Forelesning
 DESCRIPTION:MAT111\nForelesning .\nB.I. Dundas\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nAuditorium 1: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:UC7B
 END:VEVENT
 BEGIN:VEVENT
-UID:668c7278fe7d1d
-DTSTAMP:20250914T203735Z
+UID:668c72f14a7f9d
+DTSTAMP:20250914T210940Z
 DTSTART:20250821T121500Z
 DTEND:20250821T140000Z
 LOCATION:Realfagbygget Auditorium 1
@@ -57,8 +57,8 @@ SUMMARY:INF161 Forelesning
 DESCRIPTION:INF161\nForelesning .\nP. Parviainen\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nAuditorium 1: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:UC7B
 END:VEVENT
 BEGIN:VEVENT
-UID:768c7278fe7d2c
-DTSTAMP:20250914T203735Z
+UID:768c72f14a7fac
+DTSTAMP:20250914T210940Z
 DTSTART:20250821T121500Z
 DTEND:20250821T140000Z
 LOCATION:Realfagbygget Auditorium 4
@@ -66,8 +66,8 @@ SUMMARY:MAT221 Forelesning
 DESCRIPTION:MAT221\nForelesning .\nG. Fløystad\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nAuditorium 4: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:4E12F
 END:VEVENT
 BEGIN:VEVENT
-UID:868c7278fe7d3a
-DTSTAMP:20250914T203735Z
+UID:868c72f14a7fba
+DTSTAMP:20250914T210940Z
 DTSTART:20250822T101500Z
 DTEND:20250822T120000Z
 LOCATION:Realfagbygget Auditorium 1
@@ -75,8 +75,8 @@ SUMMARY:MAT111 Seminar
 DESCRIPTION:MAT111\nSeminar .\n\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nAuditorium 1: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:UC7B
 END:VEVENT
 BEGIN:VEVENT
-UID:968c7278fe7d49
-DTSTAMP:20250914T203735Z
+UID:968c72f14a7fc9
+DTSTAMP:20250914T210940Z
 DTSTART:20250822T121500Z
 DTEND:20250822T140000Z
 LOCATION:Realfagbygget Seminarrom Pi i fjerde
@@ -84,8 +84,8 @@ SUMMARY:MAT111 Regneverksted
 DESCRIPTION:MAT111\nRegneverksted .\n\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nSeminarrom Pi i fjerde: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:4E15B
 END:VEVENT
 BEGIN:VEVENT
-UID:1068c7278fe7d57
-DTSTAMP:20250914T203735Z
+UID:1068c72f14a7fd7
+DTSTAMP:20250914T210940Z
 DTSTART:20250825T101500Z
 DTEND:20250825T120000Z
 LOCATION:Realfagbygget Seminarrom 1
@@ -93,8 +93,8 @@ SUMMARY:MAT221 Gruppe
 DESCRIPTION:MAT221\nGruppe .\n\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nSeminarrom 1: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:1F11D
 END:VEVENT
 BEGIN:VEVENT
-UID:1168c7278fe7d69
-DTSTAMP:20250914T203735Z
+UID:1168c72f14a7fe8
+DTSTAMP:20250914T210940Z
 DTSTART:20250826T061500Z
 DTEND:20250826T080000Z
 LOCATION:Høyteknologisenteret Aktivt rom 2+3 - Marineholmen
@@ -102,8 +102,8 @@ SUMMARY:INF161 Forelesning \nForelesning -akt. basert
 DESCRIPTION:INF161\nForelesning \nForelesning -akt. basert.\nP. Parviainen\n\nHøyteknologisenteret: https://link.mazemap.com/34NC9sKG\nAktivt rom 2+3 - Marineholmen: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=351:105O1
 END:VEVENT
 BEGIN:VEVENT
-UID:1268c7278fe7d79
-DTSTAMP:20250914T203735Z
+UID:1268c72f14a8000
+DTSTAMP:20250914T210940Z
 DTSTART:20250826T061500Z
 DTEND:20250826T080000Z
 LOCATION:Realfagbygget Auditorium 1
@@ -111,8 +111,8 @@ SUMMARY:MAT111 Forelesning
 DESCRIPTION:MAT111\nForelesning .\nB.I. Dundas\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nAuditorium 1: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:UC7B
 END:VEVENT
 BEGIN:VEVENT
-UID:1368c7278fe7d87
-DTSTAMP:20250914T203735Z
+UID:1368c72f14a8017
+DTSTAMP:20250914T210940Z
 DTSTART:20250826T101500Z
 DTEND:20250826T120000Z
 LOCATION:Realfagbygget Seminarrom 1
@@ -120,8 +120,8 @@ SUMMARY:MAT111 Gruppe 02
 DESCRIPTION:MAT111\nGruppe 02 .\n\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nSeminarrom 1: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:1F11D
 END:VEVENT
 BEGIN:VEVENT
-UID:1468c7278fe7d95
-DTSTAMP:20250914T203735Z
+UID:1468c72f14a802e
+DTSTAMP:20250914T210940Z
 DTSTART:20250826T101500Z
 DTEND:20250826T120000Z
 LOCATION:Realfagbygget Auditorium 4
@@ -129,8 +129,8 @@ SUMMARY:MAT221 Forelesning
 DESCRIPTION:MAT221\nForelesning .\nG. Fløystad\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nAuditorium 4: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:4E12F
 END:VEVENT
 BEGIN:VEVENT
-UID:1568c7278fe7da3
-DTSTAMP:20250914T203735Z
+UID:1568c72f14a8042
+DTSTAMP:20250914T210940Z
 DTSTART:20250827T081500Z
 DTEND:20250827T100000Z
 LOCATION:Realfagbygget Auditorium 1
@@ -138,8 +138,8 @@ SUMMARY:MAT111 Forelesning
 DESCRIPTION:MAT111\nForelesning .\nB.I. Dundas\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nAuditorium 1: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:UC7B
 END:VEVENT
 BEGIN:VEVENT
-UID:1668c7278fe7db1
-DTSTAMP:20250914T203735Z
+UID:1668c72f14a8051
+DTSTAMP:20250914T210940Z
 DTSTART:20250828T121500Z
 DTEND:20250828T140000Z
 LOCATION:Høyteknologisenteret Aktivt rom 2+3 - Marineholmen
@@ -147,8 +147,8 @@ SUMMARY:INF161 Forelesning \nForelesning - akt. basert
 DESCRIPTION:INF161\nForelesning \nForelesning - akt. basert.\nP. Parviainen\n\nHøyteknologisenteret: https://link.mazemap.com/34NC9sKG\nAktivt rom 2+3 - Marineholmen: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=351:105O1
 END:VEVENT
 BEGIN:VEVENT
-UID:1768c7278fe7dbf
-DTSTAMP:20250914T203735Z
+UID:1768c72f14a8060
+DTSTAMP:20250914T210940Z
 DTSTART:20250828T121500Z
 DTEND:20250828T140000Z
 LOCATION:Realfagbygget Auditorium 4
@@ -156,8 +156,8 @@ SUMMARY:MAT221 Forelesning
 DESCRIPTION:MAT221\nForelesning .\nG. Fløystad\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nAuditorium 4: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:4E12F
 END:VEVENT
 BEGIN:VEVENT
-UID:1868c7278fe7dce
-DTSTAMP:20250914T203735Z
+UID:1868c72f14a806e
+DTSTAMP:20250914T210940Z
 DTSTART:20250829T101500Z
 DTEND:20250829T120000Z
 LOCATION:Realfagbygget Auditorium 1
@@ -165,8 +165,8 @@ SUMMARY:MAT111 Seminar
 DESCRIPTION:MAT111\nSeminar .\n\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nAuditorium 1: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:UC7B
 END:VEVENT
 BEGIN:VEVENT
-UID:1968c7278fe7ddc
-DTSTAMP:20250914T203735Z
+UID:1968c72f14a807d
+DTSTAMP:20250914T210940Z
 DTSTART:20250829T121500Z
 DTEND:20250829T140000Z
 LOCATION:Realfagbygget Seminarrom Pi i fjerde
@@ -174,8 +174,8 @@ SUMMARY:MAT111 Regneverksted
 DESCRIPTION:MAT111\nRegneverksted .\n\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nSeminarrom Pi i fjerde: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:4E15B
 END:VEVENT
 BEGIN:VEVENT
-UID:2068c7278fe7de9
-DTSTAMP:20250914T203735Z
+UID:2068c72f14a808a
+DTSTAMP:20250914T210940Z
 DTSTART:20250901T101500Z
 DTEND:20250901T120000Z
 LOCATION:Realfagbygget Seminarrom 1
@@ -183,8 +183,8 @@ SUMMARY:MAT221 Gruppe
 DESCRIPTION:MAT221\nGruppe .\n\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nSeminarrom 1: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:1F11D
 END:VEVENT
 BEGIN:VEVENT
-UID:2168c7278fe7e08
-DTSTAMP:20250914T203735Z
+UID:2168c72f14a80ad
+DTSTAMP:20250914T210940Z
 DTSTART:20250902T061500Z
 DTEND:20250902T080000Z
 LOCATION:Høyteknologisenteret Aktivt rom 2+3 - Marineholmen
@@ -192,8 +192,8 @@ SUMMARY:INF161 Forelesning \nForelesning -akt. basert
 DESCRIPTION:INF161\nForelesning \nForelesning -akt. basert.\nP. Parviainen\n\nHøyteknologisenteret: https://link.mazemap.com/34NC9sKG\nAktivt rom 2+3 - Marineholmen: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=351:105O1
 END:VEVENT
 BEGIN:VEVENT
-UID:2268c7278fe7e19
-DTSTAMP:20250914T203735Z
+UID:2268c72f14a80c1
+DTSTAMP:20250914T210940Z
 DTSTART:20250902T061500Z
 DTEND:20250902T080000Z
 LOCATION:Realfagbygget Auditorium 1
@@ -201,8 +201,8 @@ SUMMARY:MAT111 Forelesning
 DESCRIPTION:MAT111\nForelesning .\nB.I. Dundas\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nAuditorium 1: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:UC7B
 END:VEVENT
 BEGIN:VEVENT
-UID:2368c7278fe7e27
-DTSTAMP:20250914T203735Z
+UID:2368c72f14a80d0
+DTSTAMP:20250914T210940Z
 DTSTART:20250902T101500Z
 DTEND:20250902T120000Z
 LOCATION:Realfagbygget Seminarrom 1
@@ -210,8 +210,8 @@ SUMMARY:MAT111 Gruppe 02
 DESCRIPTION:MAT111\nGruppe 02 .\n\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nSeminarrom 1: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:1F11D
 END:VEVENT
 BEGIN:VEVENT
-UID:2468c7278fe7e36
-DTSTAMP:20250914T203735Z
+UID:2468c72f14a80de
+DTSTAMP:20250914T210940Z
 DTSTART:20250902T101500Z
 DTEND:20250902T120000Z
 LOCATION:Realfagbygget Auditorium 4
@@ -219,8 +219,8 @@ SUMMARY:MAT221 Forelesning
 DESCRIPTION:MAT221\nForelesning .\nG. Fløystad\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nAuditorium 4: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:4E12F
 END:VEVENT
 BEGIN:VEVENT
-UID:2568c7278fe7e44
-DTSTAMP:20250914T203735Z
+UID:2568c72f14a80ed
+DTSTAMP:20250914T210940Z
 DTSTART:20250903T081500Z
 DTEND:20250903T100000Z
 LOCATION:Realfagbygget Auditorium 1
@@ -228,8 +228,8 @@ SUMMARY:MAT111 Forelesning
 DESCRIPTION:MAT111\nForelesning .\nB.I. Dundas\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nAuditorium 1: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:UC7B
 END:VEVENT
 BEGIN:VEVENT
-UID:2668c7278fe7e53
-DTSTAMP:20250914T203735Z
+UID:2668c72f14a8109
+DTSTAMP:20250914T210940Z
 DTSTART:20250904T121500Z
 DTEND:20250904T140000Z
 LOCATION:Høyteknologisenteret Aktivt rom 2+3 - Marineholmen
@@ -237,8 +237,8 @@ SUMMARY:INF161 Forelesning \nForelesning - akt. basert
 DESCRIPTION:INF161\nForelesning \nForelesning - akt. basert.\nP. Parviainen\n\nHøyteknologisenteret: https://link.mazemap.com/34NC9sKG\nAktivt rom 2+3 - Marineholmen: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=351:105O1
 END:VEVENT
 BEGIN:VEVENT
-UID:2768c7278fe7e62
-DTSTAMP:20250914T203735Z
+UID:2768c72f14a8119
+DTSTAMP:20250914T210940Z
 DTSTART:20250904T121500Z
 DTEND:20250904T140000Z
 LOCATION:Realfagbygget Auditorium 4
@@ -246,8 +246,8 @@ SUMMARY:MAT221 Forelesning
 DESCRIPTION:MAT221\nForelesning .\nG. Fløystad\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nAuditorium 4: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:4E12F
 END:VEVENT
 BEGIN:VEVENT
-UID:2868c7278fe7e70
-DTSTAMP:20250914T203735Z
+UID:2868c72f14a8128
+DTSTAMP:20250914T210940Z
 DTSTART:20250905T101500Z
 DTEND:20250905T120000Z
 LOCATION:Realfagbygget Auditorium 1
@@ -255,8 +255,8 @@ SUMMARY:MAT111 Seminar
 DESCRIPTION:MAT111\nSeminar .\n\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nAuditorium 1: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:UC7B
 END:VEVENT
 BEGIN:VEVENT
-UID:2968c7278fe7e7d
-DTSTAMP:20250914T203735Z
+UID:2968c72f14a8141
+DTSTAMP:20250914T210940Z
 DTSTART:20250905T121500Z
 DTEND:20250905T140000Z
 LOCATION:Realfagbygget Seminarrom Pi i fjerde
@@ -264,8 +264,8 @@ SUMMARY:MAT111 Regneverksted
 DESCRIPTION:MAT111\nRegneverksted .\n\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nSeminarrom Pi i fjerde: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:4E15B
 END:VEVENT
 BEGIN:VEVENT
-UID:3068c7278fe7e8b
-DTSTAMP:20250914T203735Z
+UID:3068c72f14a8150
+DTSTAMP:20250914T210940Z
 DTSTART:20250908T101500Z
 DTEND:20250908T120000Z
 LOCATION:Realfagbygget Seminarrom 1
@@ -273,8 +273,8 @@ SUMMARY:MAT221 Gruppe
 DESCRIPTION:MAT221\nGruppe .\n\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nSeminarrom 1: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:1F11D
 END:VEVENT
 BEGIN:VEVENT
-UID:3168c7278fe7e99
-DTSTAMP:20250914T203735Z
+UID:3168c72f14a815e
+DTSTAMP:20250914T210940Z
 DTSTART:20250909T061500Z
 DTEND:20250909T080000Z
 LOCATION:Høyteknologisenteret Aktivt rom 2+3 - Marineholmen
@@ -282,8 +282,8 @@ SUMMARY:INF161 Forelesning \nForelesning -akt. basert
 DESCRIPTION:INF161\nForelesning \nForelesning -akt. basert.\nP. Parviainen\n\nHøyteknologisenteret: https://link.mazemap.com/34NC9sKG\nAktivt rom 2+3 - Marineholmen: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=351:105O1
 END:VEVENT
 BEGIN:VEVENT
-UID:3268c7278fe7ea8
-DTSTAMP:20250914T203735Z
+UID:3268c72f14a816d
+DTSTAMP:20250914T210940Z
 DTSTART:20250909T101500Z
 DTEND:20250909T120000Z
 LOCATION:Realfagbygget Seminarrom 1
@@ -291,8 +291,8 @@ SUMMARY:MAT111 Gruppe 02
 DESCRIPTION:MAT111\nGruppe 02 .\n\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nSeminarrom 1: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:1F11D
 END:VEVENT
 BEGIN:VEVENT
-UID:3368c7278fe7eb6
-DTSTAMP:20250914T203735Z
+UID:3368c72f14a817c
+DTSTAMP:20250914T210940Z
 DTSTART:20250911T121500Z
 DTEND:20250911T140000Z
 LOCATION:Høyteknologisenteret Aktivt rom 2+3 - Marineholmen
@@ -300,8 +300,8 @@ SUMMARY:INF161 Forelesning \nForelesning - akt. basert
 DESCRIPTION:INF161\nForelesning \nForelesning - akt. basert.\nP. Parviainen\n\nHøyteknologisenteret: https://link.mazemap.com/34NC9sKG\nAktivt rom 2+3 - Marineholmen: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=351:105O1
 END:VEVENT
 BEGIN:VEVENT
-UID:3468c7278fe7ec5
-DTSTAMP:20250914T203735Z
+UID:3468c72f14a818c
+DTSTAMP:20250914T210940Z
 DTSTART:20250912T121500Z
 DTEND:20250912T140000Z
 LOCATION:Realfagbygget Seminarrom Pi i fjerde
@@ -309,8 +309,8 @@ SUMMARY:MAT111 Regneverksted
 DESCRIPTION:MAT111\nRegneverksted .\n\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nSeminarrom Pi i fjerde: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:4E15B
 END:VEVENT
 BEGIN:VEVENT
-UID:3568c7278fe7ed3
-DTSTAMP:20250914T203735Z
+UID:3568c72f14a819a
+DTSTAMP:20250914T210940Z
 DTSTART:20250915T101500Z
 DTEND:20250915T120000Z
 LOCATION:Realfagbygget Seminarrom 1
@@ -318,8 +318,8 @@ SUMMARY:MAT221 Gruppe
 DESCRIPTION:MAT221\nGruppe .\n\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nSeminarrom 1: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:1F11D
 END:VEVENT
 BEGIN:VEVENT
-UID:3668c7278fe7ee1
-DTSTAMP:20250914T203735Z
+UID:3668c72f14a81a8
+DTSTAMP:20250914T210940Z
 DTSTART:20250916T061500Z
 DTEND:20250916T080000Z
 LOCATION:Høyteknologisenteret Aktivt rom 2+3 - Marineholmen
@@ -327,8 +327,8 @@ SUMMARY:INF161 Forelesning \nForelesning -akt. basert
 DESCRIPTION:INF161\nForelesning \nForelesning -akt. basert.\nP. Parviainen\n\nHøyteknologisenteret: https://link.mazemap.com/34NC9sKG\nAktivt rom 2+3 - Marineholmen: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=351:105O1
 END:VEVENT
 BEGIN:VEVENT
-UID:3768c7278fe7eef
-DTSTAMP:20250914T203735Z
+UID:3768c72f14a81b7
+DTSTAMP:20250914T210940Z
 DTSTART:20250916T061500Z
 DTEND:20250916T080000Z
 LOCATION:Realfagbygget Auditorium 1
@@ -336,8 +336,8 @@ SUMMARY:MAT111 Forelesning
 DESCRIPTION:MAT111\nForelesning .\nB.I. Dundas\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nAuditorium 1: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:UC7B
 END:VEVENT
 BEGIN:VEVENT
-UID:3868c7278fe7efd
-DTSTAMP:20250914T203735Z
+UID:3868c72f14a81c4
+DTSTAMP:20250914T210940Z
 DTSTART:20250916T101500Z
 DTEND:20250916T120000Z
 LOCATION:Realfagbygget Seminarrom 1
@@ -345,8 +345,8 @@ SUMMARY:MAT111 Gruppe 02
 DESCRIPTION:MAT111\nGruppe 02 .\n\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nSeminarrom 1: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:1F11D
 END:VEVENT
 BEGIN:VEVENT
-UID:3968c7278fe7f0d
-DTSTAMP:20250914T203735Z
+UID:3968c72f14a81d3
+DTSTAMP:20250914T210940Z
 DTSTART:20250916T101500Z
 DTEND:20250916T120000Z
 LOCATION:Realfagbygget Auditorium 4
@@ -354,8 +354,8 @@ SUMMARY:MAT221 Forelesning
 DESCRIPTION:MAT221\nForelesning .\nG. Fløystad\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nAuditorium 4: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:4E12F
 END:VEVENT
 BEGIN:VEVENT
-UID:4068c7278fe7f1c
-DTSTAMP:20250914T203735Z
+UID:4068c72f14a81e1
+DTSTAMP:20250914T210940Z
 DTSTART:20250917T081500Z
 DTEND:20250917T100000Z
 LOCATION:Realfagbygget Auditorium 1
@@ -363,8 +363,8 @@ SUMMARY:MAT111 Forelesning
 DESCRIPTION:MAT111\nForelesning .\nB.I. Dundas\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nAuditorium 1: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:UC7B
 END:VEVENT
 BEGIN:VEVENT
-UID:4168c7278fe7f33
-DTSTAMP:20250914T203735Z
+UID:4168c72f14a81fa
+DTSTAMP:20250914T210940Z
 DTSTART:20250918T121500Z
 DTEND:20250918T140000Z
 LOCATION:Høyteknologisenteret Aktivt rom 2+3 - Marineholmen
@@ -372,8 +372,8 @@ SUMMARY:INF161 Forelesning \nForelesning - akt. basert
 DESCRIPTION:INF161\nForelesning \nForelesning - akt. basert.\nP. Parviainen\n\nHøyteknologisenteret: https://link.mazemap.com/34NC9sKG\nAktivt rom 2+3 - Marineholmen: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=351:105O1
 END:VEVENT
 BEGIN:VEVENT
-UID:4268c7278fe7f43
-DTSTAMP:20250914T203735Z
+UID:4268c72f14a820a
+DTSTAMP:20250914T210940Z
 DTSTART:20250918T121500Z
 DTEND:20250918T140000Z
 LOCATION:Realfagbygget Auditorium 4
@@ -381,8 +381,8 @@ SUMMARY:MAT221 Forelesning
 DESCRIPTION:MAT221\nForelesning .\nG. Fløystad\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nAuditorium 4: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:4E12F
 END:VEVENT
 BEGIN:VEVENT
-UID:4368c7278fe7f52
-DTSTAMP:20250914T203735Z
+UID:4368c72f14a8219
+DTSTAMP:20250914T210940Z
 DTSTART:20250919T101500Z
 DTEND:20250919T120000Z
 LOCATION:Realfagbygget Auditorium 1
@@ -390,8 +390,8 @@ SUMMARY:MAT111 Seminar
 DESCRIPTION:MAT111\nSeminar .\n\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nAuditorium 1: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:UC7B
 END:VEVENT
 BEGIN:VEVENT
-UID:4468c7278fe7f60
-DTSTAMP:20250914T203735Z
+UID:4468c72f14a8227
+DTSTAMP:20250914T210940Z
 DTSTART:20250919T121500Z
 DTEND:20250919T140000Z
 LOCATION:Realfagbygget Seminarrom Pi i fjerde
@@ -399,8 +399,8 @@ SUMMARY:MAT111 Regneverksted
 DESCRIPTION:MAT111\nRegneverksted .\n\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nSeminarrom Pi i fjerde: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:4E15B
 END:VEVENT
 BEGIN:VEVENT
-UID:4568c7278fe7f6e
-DTSTAMP:20250914T203735Z
+UID:4568c72f14a8255
+DTSTAMP:20250914T210940Z
 DTSTART:20250922T101500Z
 DTEND:20250922T120000Z
 LOCATION:Realfagbygget Seminarrom 1
@@ -408,8 +408,8 @@ SUMMARY:MAT221 Gruppe
 DESCRIPTION:MAT221\nGruppe .\n\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nSeminarrom 1: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:1F11D
 END:VEVENT
 BEGIN:VEVENT
-UID:4668c7278fe7f7b
-DTSTAMP:20250914T203735Z
+UID:4668c72f14a8266
+DTSTAMP:20250914T210940Z
 DTSTART:20250923T061500Z
 DTEND:20250923T080000Z
 LOCATION:Høyteknologisenteret Aktivt rom 2+3 - Marineholmen
@@ -417,8 +417,8 @@ SUMMARY:INF161 Forelesning \nForelesning -akt. basert
 DESCRIPTION:INF161\nForelesning \nForelesning -akt. basert.\nP. Parviainen\n\nHøyteknologisenteret: https://link.mazemap.com/34NC9sKG\nAktivt rom 2+3 - Marineholmen: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=351:105O1
 END:VEVENT
 BEGIN:VEVENT
-UID:4768c7278fe7f8b
-DTSTAMP:20250914T203735Z
+UID:4768c72f14a8277
+DTSTAMP:20250914T210940Z
 DTSTART:20250923T061500Z
 DTEND:20250923T080000Z
 LOCATION:Realfagbygget Auditorium 1
@@ -426,8 +426,8 @@ SUMMARY:MAT111 Forelesning
 DESCRIPTION:MAT111\nForelesning .\nB.I. Dundas\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nAuditorium 1: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:UC7B
 END:VEVENT
 BEGIN:VEVENT
-UID:4868c7278fe7f99
-DTSTAMP:20250914T203735Z
+UID:4868c72f14a828b
+DTSTAMP:20250914T210940Z
 DTSTART:20250923T101500Z
 DTEND:20250923T120000Z
 LOCATION:Realfagbygget Seminarrom 1
@@ -435,8 +435,8 @@ SUMMARY:MAT111 Gruppe 02
 DESCRIPTION:MAT111\nGruppe 02 .\n\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nSeminarrom 1: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:1F11D
 END:VEVENT
 BEGIN:VEVENT
-UID:4968c7278fe7fa7
-DTSTAMP:20250914T203735Z
+UID:4968c72f14a829b
+DTSTAMP:20250914T210940Z
 DTSTART:20250923T101500Z
 DTEND:20250923T120000Z
 LOCATION:Realfagbygget Auditorium 4
@@ -444,8 +444,8 @@ SUMMARY:MAT221 Forelesning
 DESCRIPTION:MAT221\nForelesning .\nG. Fløystad\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nAuditorium 4: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:4E12F
 END:VEVENT
 BEGIN:VEVENT
-UID:5068c7278fe7fb5
-DTSTAMP:20250914T203735Z
+UID:5068c72f14a82aa
+DTSTAMP:20250914T210940Z
 DTSTART:20250924T081500Z
 DTEND:20250924T100000Z
 LOCATION:Realfagbygget Auditorium 1
@@ -453,8 +453,8 @@ SUMMARY:MAT111 Forelesning
 DESCRIPTION:MAT111\nForelesning .\nB.I. Dundas\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nAuditorium 1: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:UC7B
 END:VEVENT
 BEGIN:VEVENT
-UID:5168c7278fe7fc5
-DTSTAMP:20250914T203735Z
+UID:5168c72f14a82b9
+DTSTAMP:20250914T210940Z
 DTSTART:20250925T121500Z
 DTEND:20250925T140000Z
 LOCATION:Høyteknologisenteret Aktivt rom 2+3 - Marineholmen
@@ -462,8 +462,8 @@ SUMMARY:INF161 Forelesning \nForelesning - akt. basert
 DESCRIPTION:INF161\nForelesning \nForelesning - akt. basert.\nP. Parviainen\n\nHøyteknologisenteret: https://link.mazemap.com/34NC9sKG\nAktivt rom 2+3 - Marineholmen: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=351:105O1
 END:VEVENT
 BEGIN:VEVENT
-UID:5268c7278fe7fd4
-DTSTAMP:20250914T203735Z
+UID:5268c72f14a82c9
+DTSTAMP:20250914T210940Z
 DTSTART:20250925T121500Z
 DTEND:20250925T140000Z
 LOCATION:Realfagbygget Auditorium 4
@@ -471,8 +471,8 @@ SUMMARY:MAT221 Forelesning
 DESCRIPTION:MAT221\nForelesning .\nG. Fløystad\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nAuditorium 4: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:4E12F
 END:VEVENT
 BEGIN:VEVENT
-UID:5368c7278fe7fe2
-DTSTAMP:20250914T203735Z
+UID:5368c72f14a82d7
+DTSTAMP:20250914T210940Z
 DTSTART:20250926T101500Z
 DTEND:20250926T120000Z
 LOCATION:Realfagbygget Auditorium 1
@@ -480,8 +480,8 @@ SUMMARY:MAT111 Seminar
 DESCRIPTION:MAT111\nSeminar .\n\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nAuditorium 1: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:UC7B
 END:VEVENT
 BEGIN:VEVENT
-UID:5468c7278fe7ff0
-DTSTAMP:20250914T203735Z
+UID:5468c72f14a82e5
+DTSTAMP:20250914T210940Z
 DTSTART:20250926T121500Z
 DTEND:20250926T140000Z
 LOCATION:Realfagbygget Seminarrom Pi i fjerde
@@ -489,8 +489,8 @@ SUMMARY:MAT111 Regneverksted
 DESCRIPTION:MAT111\nRegneverksted .\n\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nSeminarrom Pi i fjerde: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:4E15B
 END:VEVENT
 BEGIN:VEVENT
-UID:5568c7278fe7ffd
-DTSTAMP:20250914T203735Z
+UID:5568c72f14a82f5
+DTSTAMP:20250914T210940Z
 DTSTART:20250929T101500Z
 DTEND:20250929T120000Z
 LOCATION:Realfagbygget Seminarrom 1
@@ -498,8 +498,8 @@ SUMMARY:MAT221 Gruppe
 DESCRIPTION:MAT221\nGruppe .\n\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nSeminarrom 1: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:1F11D
 END:VEVENT
 BEGIN:VEVENT
-UID:5668c7278fe800b
-DTSTAMP:20250914T203735Z
+UID:5668c72f14a831a
+DTSTAMP:20250914T210940Z
 DTSTART:20250930T061500Z
 DTEND:20250930T080000Z
 LOCATION:Høyteknologisenteret Aktivt rom 2+3 - Marineholmen
@@ -507,8 +507,8 @@ SUMMARY:INF161 Forelesning \nForelesning -akt. basert
 DESCRIPTION:INF161\nForelesning \nForelesning -akt. basert.\nP. Parviainen\n\nHøyteknologisenteret: https://link.mazemap.com/34NC9sKG\nAktivt rom 2+3 - Marineholmen: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=351:105O1
 END:VEVENT
 BEGIN:VEVENT
-UID:5768c7278fe801a
-DTSTAMP:20250914T203735Z
+UID:5768c72f14a8333
+DTSTAMP:20250914T210940Z
 DTSTART:20250930T061500Z
 DTEND:20250930T080000Z
 LOCATION:Realfagbygget Auditorium 1
@@ -516,8 +516,8 @@ SUMMARY:MAT111 Forelesning
 DESCRIPTION:MAT111\nForelesning .\nB.I. Dundas\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nAuditorium 1: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:UC7B
 END:VEVENT
 BEGIN:VEVENT
-UID:5868c7278fe8029
-DTSTAMP:20250914T203735Z
+UID:5868c72f14a8345
+DTSTAMP:20250914T210940Z
 DTSTART:20250930T101500Z
 DTEND:20250930T120000Z
 LOCATION:Realfagbygget Seminarrom 1
@@ -525,8 +525,8 @@ SUMMARY:MAT111 Gruppe 02
 DESCRIPTION:MAT111\nGruppe 02 .\n\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nSeminarrom 1: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:1F11D
 END:VEVENT
 BEGIN:VEVENT
-UID:5968c7278fe8037
-DTSTAMP:20250914T203735Z
+UID:5968c72f14a8359
+DTSTAMP:20250914T210940Z
 DTSTART:20250930T101500Z
 DTEND:20250930T120000Z
 LOCATION:Realfagbygget Auditorium 4
@@ -534,8 +534,8 @@ SUMMARY:MAT221 Forelesning
 DESCRIPTION:MAT221\nForelesning .\nG. Fløystad\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nAuditorium 4: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:4E12F
 END:VEVENT
 BEGIN:VEVENT
-UID:6068c7278fe8045
-DTSTAMP:20250914T203735Z
+UID:6068c72f14a8368
+DTSTAMP:20250914T210940Z
 DTSTART:20251001T081500Z
 DTEND:20251001T100000Z
 LOCATION:Realfagbygget Auditorium 1
@@ -543,8 +543,8 @@ SUMMARY:MAT111 Forelesning
 DESCRIPTION:MAT111\nForelesning .\nB.I. Dundas\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nAuditorium 1: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:UC7B
 END:VEVENT
 BEGIN:VEVENT
-UID:6168c7278fe805b
-DTSTAMP:20250914T203735Z
+UID:6168c72f14a8382
+DTSTAMP:20250914T210940Z
 DTSTART:20251002T121500Z
 DTEND:20251002T140000Z
 LOCATION:Høyteknologisenteret Aktivt rom 2+3 - Marineholmen
@@ -552,8 +552,8 @@ SUMMARY:INF161 Forelesning \nForelesning - akt. basert
 DESCRIPTION:INF161\nForelesning \nForelesning - akt. basert.\nP. Parviainen\n\nHøyteknologisenteret: https://link.mazemap.com/34NC9sKG\nAktivt rom 2+3 - Marineholmen: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=351:105O1
 END:VEVENT
 BEGIN:VEVENT
-UID:6268c7278fe806a
-DTSTAMP:20250914T203735Z
+UID:6268c72f14a8392
+DTSTAMP:20250914T210940Z
 DTSTART:20251002T121500Z
 DTEND:20251002T140000Z
 LOCATION:Realfagbygget Auditorium 4
@@ -561,8 +561,8 @@ SUMMARY:MAT221 Forelesning
 DESCRIPTION:MAT221\nForelesning .\nG. Fløystad\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nAuditorium 4: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:4E12F
 END:VEVENT
 BEGIN:VEVENT
-UID:6368c7278fe8079
-DTSTAMP:20250914T203735Z
+UID:6368c72f14a83a2
+DTSTAMP:20250914T210940Z
 DTSTART:20251003T101500Z
 DTEND:20251003T120000Z
 LOCATION:Realfagbygget Auditorium 1
@@ -570,8 +570,8 @@ SUMMARY:MAT111 Seminar
 DESCRIPTION:MAT111\nSeminar .\n\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nAuditorium 1: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:UC7B
 END:VEVENT
 BEGIN:VEVENT
-UID:6468c7278fe8086
-DTSTAMP:20250914T203735Z
+UID:6468c72f14a83b0
+DTSTAMP:20250914T210940Z
 DTSTART:20251003T121500Z
 DTEND:20251003T140000Z
 LOCATION:Realfagbygget Seminarrom Pi i fjerde
@@ -579,8 +579,8 @@ SUMMARY:MAT111 Regneverksted
 DESCRIPTION:MAT111\nRegneverksted .\n\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nSeminarrom Pi i fjerde: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:4E15B
 END:VEVENT
 BEGIN:VEVENT
-UID:6568c7278fe8094
-DTSTAMP:20250914T203735Z
+UID:6568c72f14a83be
+DTSTAMP:20250914T210940Z
 DTSTART:20251006T101500Z
 DTEND:20251006T120000Z
 LOCATION:Realfagbygget Seminarrom 1
@@ -588,8 +588,8 @@ SUMMARY:MAT221 Gruppe
 DESCRIPTION:MAT221\nGruppe .\n\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nSeminarrom 1: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:1F11D
 END:VEVENT
 BEGIN:VEVENT
-UID:6668c7278fe80ab
-DTSTAMP:20250914T203735Z
+UID:6668c72f14a83cc
+DTSTAMP:20250914T210940Z
 DTSTART:20251007T061500Z
 DTEND:20251007T080000Z
 LOCATION:Høyteknologisenteret Aktivt rom 2+3 - Marineholmen
@@ -597,8 +597,8 @@ SUMMARY:INF161 Forelesning \nForelesning -akt. basert
 DESCRIPTION:INF161\nForelesning \nForelesning -akt. basert.\nP. Parviainen\n\nHøyteknologisenteret: https://link.mazemap.com/34NC9sKG\nAktivt rom 2+3 - Marineholmen: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=351:105O1
 END:VEVENT
 BEGIN:VEVENT
-UID:6768c7278fe80bc
-DTSTAMP:20250914T203735Z
+UID:6768c72f14a83de
+DTSTAMP:20250914T210940Z
 DTSTART:20251007T061500Z
 DTEND:20251007T080000Z
 LOCATION:Realfagbygget Auditorium 1
@@ -606,8 +606,8 @@ SUMMARY:MAT111 Forelesning
 DESCRIPTION:MAT111\nForelesning .\nB.I. Dundas\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nAuditorium 1: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:UC7B
 END:VEVENT
 BEGIN:VEVENT
-UID:6868c7278fe80ca
-DTSTAMP:20250914T203735Z
+UID:6868c72f14a83f5
+DTSTAMP:20250914T210940Z
 DTSTART:20251007T101500Z
 DTEND:20251007T120000Z
 LOCATION:Realfagbygget Seminarrom 1
@@ -615,8 +615,8 @@ SUMMARY:MAT111 Gruppe 02
 DESCRIPTION:MAT111\nGruppe 02 .\n\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nSeminarrom 1: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:1F11D
 END:VEVENT
 BEGIN:VEVENT
-UID:6968c7278fe80d8
-DTSTAMP:20250914T203735Z
+UID:6968c72f14a840c
+DTSTAMP:20250914T210940Z
 DTSTART:20251007T101500Z
 DTEND:20251007T120000Z
 LOCATION:Realfagbygget Auditorium 4
@@ -624,8 +624,8 @@ SUMMARY:MAT221 Forelesning
 DESCRIPTION:MAT221\nForelesning .\nG. Fløystad\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nAuditorium 4: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:4E12F
 END:VEVENT
 BEGIN:VEVENT
-UID:7068c7278fe80e7
-DTSTAMP:20250914T203735Z
+UID:7068c72f14a8423
+DTSTAMP:20250914T210940Z
 DTSTART:20251008T081500Z
 DTEND:20251008T100000Z
 LOCATION:Realfagbygget Auditorium 1
@@ -633,8 +633,8 @@ SUMMARY:MAT111 Forelesning
 DESCRIPTION:MAT111\nForelesning .\nB.I. Dundas\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nAuditorium 1: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:UC7B
 END:VEVENT
 BEGIN:VEVENT
-UID:7168c7278fe80f6
-DTSTAMP:20250914T203735Z
+UID:7168c72f14a8432
+DTSTAMP:20250914T210940Z
 DTSTART:20251009T121500Z
 DTEND:20251009T140000Z
 LOCATION:Høyteknologisenteret Aktivt rom 2+3 - Marineholmen
@@ -642,8 +642,8 @@ SUMMARY:INF161 Forelesning \nForelesning - akt. basert
 DESCRIPTION:INF161\nForelesning \nForelesning - akt. basert.\nP. Parviainen\n\nHøyteknologisenteret: https://link.mazemap.com/34NC9sKG\nAktivt rom 2+3 - Marineholmen: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=351:105O1
 END:VEVENT
 BEGIN:VEVENT
-UID:7268c7278fe8104
-DTSTAMP:20250914T203735Z
+UID:7268c72f14a8441
+DTSTAMP:20250914T210940Z
 DTSTART:20251009T121500Z
 DTEND:20251009T140000Z
 LOCATION:Realfagbygget Auditorium 4
@@ -651,8 +651,8 @@ SUMMARY:MAT221 Forelesning
 DESCRIPTION:MAT221\nForelesning .\nG. Fløystad\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nAuditorium 4: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:4E12F
 END:VEVENT
 BEGIN:VEVENT
-UID:7368c7278fe8112
-DTSTAMP:20250914T203735Z
+UID:7368c72f14a8450
+DTSTAMP:20250914T210940Z
 DTSTART:20251010T101500Z
 DTEND:20251010T120000Z
 LOCATION:Realfagbygget Auditorium 1
@@ -660,8 +660,8 @@ SUMMARY:MAT111 Seminar
 DESCRIPTION:MAT111\nSeminar .\n\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nAuditorium 1: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:UC7B
 END:VEVENT
 BEGIN:VEVENT
-UID:7468c7278fe8120
-DTSTAMP:20250914T203735Z
+UID:7468c72f14a845d
+DTSTAMP:20250914T210940Z
 DTSTART:20251010T121500Z
 DTEND:20251010T140000Z
 LOCATION:Realfagbygget Seminarrom Pi i fjerde
@@ -669,8 +669,8 @@ SUMMARY:MAT111 Regneverksted
 DESCRIPTION:MAT111\nRegneverksted .\n\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nSeminarrom Pi i fjerde: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:4E15B
 END:VEVENT
 BEGIN:VEVENT
-UID:7568c7278fe812e
-DTSTAMP:20250914T203735Z
+UID:7568c72f14a847d
+DTSTAMP:20250914T210940Z
 DTSTART:20251013T101500Z
 DTEND:20251013T120000Z
 LOCATION:Realfagbygget Seminarrom 1
@@ -678,8 +678,8 @@ SUMMARY:MAT221 Gruppe
 DESCRIPTION:MAT221\nGruppe .\n\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nSeminarrom 1: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:1F11D
 END:VEVENT
 BEGIN:VEVENT
-UID:7668c7278fe813c
-DTSTAMP:20250914T203735Z
+UID:7668c72f14a8491
+DTSTAMP:20250914T210940Z
 DTSTART:20251014T061500Z
 DTEND:20251014T080000Z
 LOCATION:Høyteknologisenteret Aktivt rom 2+3 - Marineholmen
@@ -687,8 +687,8 @@ SUMMARY:INF161 Forelesning \nForelesning -akt. basert
 DESCRIPTION:INF161\nForelesning \nForelesning -akt. basert.\nP. Parviainen\n\nHøyteknologisenteret: https://link.mazemap.com/34NC9sKG\nAktivt rom 2+3 - Marineholmen: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=351:105O1
 END:VEVENT
 BEGIN:VEVENT
-UID:7768c7278fe814b
-DTSTAMP:20250914T203735Z
+UID:7768c72f14a84a1
+DTSTAMP:20250914T210940Z
 DTSTART:20251014T061500Z
 DTEND:20251014T080000Z
 LOCATION:Realfagbygget Auditorium 1
@@ -696,8 +696,8 @@ SUMMARY:MAT111 Forelesning
 DESCRIPTION:MAT111\nForelesning .\nB.I. Dundas\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nAuditorium 1: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:UC7B
 END:VEVENT
 BEGIN:VEVENT
-UID:7868c7278fe8159
-DTSTAMP:20250914T203735Z
+UID:7868c72f14a84b0
+DTSTAMP:20250914T210940Z
 DTSTART:20251014T101500Z
 DTEND:20251014T120000Z
 LOCATION:Realfagbygget Seminarrom 1
@@ -705,8 +705,8 @@ SUMMARY:MAT111 Gruppe 02
 DESCRIPTION:MAT111\nGruppe 02 .\n\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nSeminarrom 1: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:1F11D
 END:VEVENT
 BEGIN:VEVENT
-UID:7968c7278fe8167
-DTSTAMP:20250914T203735Z
+UID:7968c72f14a84be
+DTSTAMP:20250914T210940Z
 DTSTART:20251014T101500Z
 DTEND:20251014T120000Z
 LOCATION:Realfagbygget Auditorium 4
@@ -714,8 +714,8 @@ SUMMARY:MAT221 Forelesning
 DESCRIPTION:MAT221\nForelesning .\nG. Fløystad\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nAuditorium 4: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:4E12F
 END:VEVENT
 BEGIN:VEVENT
-UID:8068c7278fe8176
-DTSTAMP:20250914T203735Z
+UID:8068c72f14a84cc
+DTSTAMP:20250914T210940Z
 DTSTART:20251015T081500Z
 DTEND:20251015T100000Z
 LOCATION:Realfagbygget Auditorium 1
@@ -723,8 +723,8 @@ SUMMARY:MAT111 Forelesning
 DESCRIPTION:MAT111\nForelesning .\nB.I. Dundas\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nAuditorium 1: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:UC7B
 END:VEVENT
 BEGIN:VEVENT
-UID:8168c7278fe8190
-DTSTAMP:20250914T203735Z
+UID:8168c72f14a84e6
+DTSTAMP:20250914T210940Z
 DTSTART:20251016T121500Z
 DTEND:20251016T140000Z
 LOCATION:Høyteknologisenteret Aktivt rom 2+3 - Marineholmen
@@ -732,8 +732,8 @@ SUMMARY:INF161 Forelesning \nForelesning - akt. basert
 DESCRIPTION:INF161\nForelesning \nForelesning - akt. basert.\nP. Parviainen\n\nHøyteknologisenteret: https://link.mazemap.com/34NC9sKG\nAktivt rom 2+3 - Marineholmen: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=351:105O1
 END:VEVENT
 BEGIN:VEVENT
-UID:8268c7278fe81a0
-DTSTAMP:20250914T203735Z
+UID:8268c72f14a84f6
+DTSTAMP:20250914T210940Z
 DTSTART:20251016T121500Z
 DTEND:20251016T140000Z
 LOCATION:Realfagbygget Auditorium 4
@@ -741,8 +741,8 @@ SUMMARY:MAT221 Forelesning
 DESCRIPTION:MAT221\nForelesning .\nG. Fløystad\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nAuditorium 4: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:4E12F
 END:VEVENT
 BEGIN:VEVENT
-UID:8368c7278fe81ae
-DTSTAMP:20250914T203735Z
+UID:8368c72f14a8504
+DTSTAMP:20250914T210940Z
 DTSTART:20251017T101500Z
 DTEND:20251017T120000Z
 LOCATION:Realfagbygget Auditorium 1
@@ -750,8 +750,8 @@ SUMMARY:MAT111 Seminar
 DESCRIPTION:MAT111\nSeminar .\n\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nAuditorium 1: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:UC7B
 END:VEVENT
 BEGIN:VEVENT
-UID:8468c7278fe81bc
-DTSTAMP:20250914T203735Z
+UID:8468c72f14a8511
+DTSTAMP:20250914T210940Z
 DTSTART:20251017T121500Z
 DTEND:20251017T140000Z
 LOCATION:Realfagbygget Seminarrom Pi i fjerde
@@ -759,8 +759,8 @@ SUMMARY:MAT111 Regneverksted
 DESCRIPTION:MAT111\nRegneverksted .\n\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nSeminarrom Pi i fjerde: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:4E15B
 END:VEVENT
 BEGIN:VEVENT
-UID:8568c7278fe81ca
-DTSTAMP:20250914T203735Z
+UID:8568c72f14a8527
+DTSTAMP:20250914T210940Z
 DTSTART:20251020T101500Z
 DTEND:20251020T120000Z
 LOCATION:Realfagbygget Seminarrom 1
@@ -768,8 +768,8 @@ SUMMARY:MAT221 Gruppe
 DESCRIPTION:MAT221\nGruppe .\n\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nSeminarrom 1: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:1F11D
 END:VEVENT
 BEGIN:VEVENT
-UID:8668c7278fe81d8
-DTSTAMP:20250914T203735Z
+UID:8668c72f14a8536
+DTSTAMP:20250914T210940Z
 DTSTART:20251021T061500Z
 DTEND:20251021T080000Z
 LOCATION:Høyteknologisenteret Aktivt rom 2+3 - Marineholmen
@@ -777,8 +777,8 @@ SUMMARY:INF161 Forelesning \nForelesning -akt. basert
 DESCRIPTION:INF161\nForelesning \nForelesning -akt. basert.\nP. Parviainen\n\nHøyteknologisenteret: https://link.mazemap.com/34NC9sKG\nAktivt rom 2+3 - Marineholmen: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=351:105O1
 END:VEVENT
 BEGIN:VEVENT
-UID:8768c7278fe81e7
-DTSTAMP:20250914T203735Z
+UID:8768c72f14a8545
+DTSTAMP:20250914T210940Z
 DTSTART:20251021T061500Z
 DTEND:20251021T080000Z
 LOCATION:Realfagbygget Auditorium 1
@@ -786,8 +786,8 @@ SUMMARY:MAT111 Forelesning
 DESCRIPTION:MAT111\nForelesning .\nB.I. Dundas\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nAuditorium 1: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:UC7B
 END:VEVENT
 BEGIN:VEVENT
-UID:8868c7278fe81f5
-DTSTAMP:20250914T203735Z
+UID:8868c72f14a8554
+DTSTAMP:20250914T210940Z
 DTSTART:20251021T101500Z
 DTEND:20251021T120000Z
 LOCATION:Realfagbygget Seminarrom 1
@@ -795,8 +795,8 @@ SUMMARY:MAT111 Gruppe 02
 DESCRIPTION:MAT111\nGruppe 02 .\n\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nSeminarrom 1: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:1F11D
 END:VEVENT
 BEGIN:VEVENT
-UID:8968c7278fe8203
-DTSTAMP:20250914T203735Z
+UID:8968c72f14a8562
+DTSTAMP:20250914T210940Z
 DTSTART:20251021T101500Z
 DTEND:20251021T120000Z
 LOCATION:Realfagbygget Auditorium 4
@@ -804,8 +804,8 @@ SUMMARY:MAT221 Forelesning
 DESCRIPTION:MAT221\nForelesning .\nG. Fløystad\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nAuditorium 4: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:4E12F
 END:VEVENT
 BEGIN:VEVENT
-UID:9068c7278fe8212
-DTSTAMP:20250914T203735Z
+UID:9068c72f14a8571
+DTSTAMP:20250914T210940Z
 DTSTART:20251022T081500Z
 DTEND:20251022T100000Z
 LOCATION:Realfagbygget Auditorium 1
@@ -813,8 +813,8 @@ SUMMARY:MAT111 Forelesning
 DESCRIPTION:MAT111\nForelesning .\nB.I. Dundas\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nAuditorium 1: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:UC7B
 END:VEVENT
 BEGIN:VEVENT
-UID:9168c7278fe8220
-DTSTAMP:20250914T203735Z
+UID:9168c72f14a8580
+DTSTAMP:20250914T210940Z
 DTSTART:20251023T121500Z
 DTEND:20251023T140000Z
 LOCATION:Høyteknologisenteret Aktivt rom 2+3 - Marineholmen
@@ -822,8 +822,8 @@ SUMMARY:INF161 Forelesning \nForelesning - akt. basert
 DESCRIPTION:INF161\nForelesning \nForelesning - akt. basert.\nP. Parviainen\n\nHøyteknologisenteret: https://link.mazemap.com/34NC9sKG\nAktivt rom 2+3 - Marineholmen: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=351:105O1
 END:VEVENT
 BEGIN:VEVENT
-UID:9268c7278fe822e
-DTSTAMP:20250914T203735Z
+UID:9268c72f14a858f
+DTSTAMP:20250914T210940Z
 DTSTART:20251023T121500Z
 DTEND:20251023T140000Z
 LOCATION:Realfagbygget Auditorium 4
@@ -831,8 +831,8 @@ SUMMARY:MAT221 Forelesning
 DESCRIPTION:MAT221\nForelesning .\nG. Fløystad\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nAuditorium 4: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:4E12F
 END:VEVENT
 BEGIN:VEVENT
-UID:9368c7278fe823c
-DTSTAMP:20250914T203735Z
+UID:9368c72f14a859d
+DTSTAMP:20250914T210940Z
 DTSTART:20251024T101500Z
 DTEND:20251024T120000Z
 LOCATION:Realfagbygget Auditorium 1
@@ -840,8 +840,8 @@ SUMMARY:MAT111 Seminar
 DESCRIPTION:MAT111\nSeminar .\n\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nAuditorium 1: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:UC7B
 END:VEVENT
 BEGIN:VEVENT
-UID:9468c7278fe824a
-DTSTAMP:20250914T203735Z
+UID:9468c72f14a85aa
+DTSTAMP:20250914T210940Z
 DTSTART:20251024T121500Z
 DTEND:20251024T140000Z
 LOCATION:Realfagbygget Seminarrom Pi i fjerde
@@ -849,8 +849,8 @@ SUMMARY:MAT111 Regneverksted
 DESCRIPTION:MAT111\nRegneverksted .\n\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nSeminarrom Pi i fjerde: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:4E15B
 END:VEVENT
 BEGIN:VEVENT
-UID:9568c7278fe8258
-DTSTAMP:20250914T203735Z
+UID:9568c72f14a85b8
+DTSTAMP:20250914T210940Z
 DTSTART:20251027T111500Z
 DTEND:20251027T130000Z
 LOCATION:Realfagbygget Seminarrom 1
@@ -858,8 +858,8 @@ SUMMARY:MAT221 Gruppe
 DESCRIPTION:MAT221\nGruppe .\n\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nSeminarrom 1: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:1F11D
 END:VEVENT
 BEGIN:VEVENT
-UID:9668c7278fe8265
-DTSTAMP:20250914T203735Z
+UID:9668c72f14a85c6
+DTSTAMP:20250914T210940Z
 DTSTART:20251028T071500Z
 DTEND:20251028T090000Z
 LOCATION:Høyteknologisenteret Aktivt rom 2+3 - Marineholmen
@@ -867,8 +867,8 @@ SUMMARY:INF161 Forelesning \nForelesning -akt. basert
 DESCRIPTION:INF161\nForelesning \nForelesning -akt. basert.\nP. Parviainen\n\nHøyteknologisenteret: https://link.mazemap.com/34NC9sKG\nAktivt rom 2+3 - Marineholmen: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=351:105O1
 END:VEVENT
 BEGIN:VEVENT
-UID:9768c7278fe8274
-DTSTAMP:20250914T203735Z
+UID:9768c72f14a85d6
+DTSTAMP:20250914T210940Z
 DTSTART:20251028T071500Z
 DTEND:20251028T090000Z
 LOCATION:Realfagbygget Auditorium 1
@@ -876,8 +876,8 @@ SUMMARY:MAT111 Forelesning
 DESCRIPTION:MAT111\nForelesning .\nB.I. Dundas\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nAuditorium 1: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:UC7B
 END:VEVENT
 BEGIN:VEVENT
-UID:9868c7278fe8282
-DTSTAMP:20250914T203735Z
+UID:9868c72f14a85e4
+DTSTAMP:20250914T210940Z
 DTSTART:20251028T111500Z
 DTEND:20251028T130000Z
 LOCATION:Realfagbygget Seminarrom 1
@@ -885,8 +885,8 @@ SUMMARY:MAT111 Gruppe 02
 DESCRIPTION:MAT111\nGruppe 02 .\n\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nSeminarrom 1: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:1F11D
 END:VEVENT
 BEGIN:VEVENT
-UID:9968c7278fe828f
-DTSTAMP:20250914T203735Z
+UID:9968c72f14a85f1
+DTSTAMP:20250914T210940Z
 DTSTART:20251028T111500Z
 DTEND:20251028T130000Z
 LOCATION:Realfagbygget Auditorium 4
@@ -894,8 +894,8 @@ SUMMARY:MAT221 Forelesning
 DESCRIPTION:MAT221\nForelesning .\nG. Fløystad\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nAuditorium 4: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:4E12F
 END:VEVENT
 BEGIN:VEVENT
-UID:10068c7278fe829d
-DTSTAMP:20250914T203735Z
+UID:10068c72f14a8600
+DTSTAMP:20250914T210940Z
 DTSTART:20251029T091500Z
 DTEND:20251029T110000Z
 LOCATION:Realfagbygget Auditorium 1
@@ -903,8 +903,8 @@ SUMMARY:MAT111 Forelesning
 DESCRIPTION:MAT111\nForelesning .\nB.I. Dundas\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nAuditorium 1: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:UC7B
 END:VEVENT
 BEGIN:VEVENT
-UID:10168c7278fe82af
-DTSTAMP:20250914T203735Z
+UID:10168c72f14a8615
+DTSTAMP:20250914T210940Z
 DTSTART:20251030T131500Z
 DTEND:20251030T150000Z
 LOCATION:Høyteknologisenteret Aktivt rom 2+3 - Marineholmen
@@ -912,8 +912,8 @@ SUMMARY:INF161 Forelesning \nForelesning - akt. basert
 DESCRIPTION:INF161\nForelesning \nForelesning - akt. basert.\nP. Parviainen\n\nHøyteknologisenteret: https://link.mazemap.com/34NC9sKG\nAktivt rom 2+3 - Marineholmen: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=351:105O1
 END:VEVENT
 BEGIN:VEVENT
-UID:10268c7278fe82be
-DTSTAMP:20250914T203735Z
+UID:10268c72f14a8625
+DTSTAMP:20250914T210940Z
 DTSTART:20251030T131500Z
 DTEND:20251030T150000Z
 LOCATION:Realfagbygget Auditorium 4
@@ -921,8 +921,8 @@ SUMMARY:MAT221 Forelesning
 DESCRIPTION:MAT221\nForelesning .\nG. Fløystad\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nAuditorium 4: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:4E12F
 END:VEVENT
 BEGIN:VEVENT
-UID:10368c7278fe82cc
-DTSTAMP:20250914T203735Z
+UID:10368c72f14a8633
+DTSTAMP:20250914T210940Z
 DTSTART:20251031T111500Z
 DTEND:20251031T130000Z
 LOCATION:Realfagbygget Auditorium 1
@@ -930,8 +930,8 @@ SUMMARY:MAT111 Seminar
 DESCRIPTION:MAT111\nSeminar .\n\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nAuditorium 1: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:UC7B
 END:VEVENT
 BEGIN:VEVENT
-UID:10468c7278fe82d9
-DTSTAMP:20250914T203735Z
+UID:10468c72f14a8641
+DTSTAMP:20250914T210940Z
 DTSTART:20251031T131500Z
 DTEND:20251031T150000Z
 LOCATION:Realfagbygget Seminarrom Pi i fjerde
@@ -939,8 +939,8 @@ SUMMARY:MAT111 Regneverksted
 DESCRIPTION:MAT111\nRegneverksted .\n\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nSeminarrom Pi i fjerde: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:4E15B
 END:VEVENT
 BEGIN:VEVENT
-UID:10568c7278fe82e7
-DTSTAMP:20250914T203735Z
+UID:10568c72f14a864f
+DTSTAMP:20250914T210940Z
 DTSTART:20251103T111500Z
 DTEND:20251103T130000Z
 LOCATION:Realfagbygget Seminarrom 1
@@ -948,8 +948,8 @@ SUMMARY:MAT221 Gruppe
 DESCRIPTION:MAT221\nGruppe .\n\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nSeminarrom 1: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:1F11D
 END:VEVENT
 BEGIN:VEVENT
-UID:10668c7278fe82f5
-DTSTAMP:20250914T203735Z
+UID:10668c72f14a865d
+DTSTAMP:20250914T210940Z
 DTSTART:20251104T071500Z
 DTEND:20251104T090000Z
 LOCATION:Høyteknologisenteret Aktivt rom 2+3 - Marineholmen
@@ -957,8 +957,8 @@ SUMMARY:INF161 Forelesning \nForelesning -akt. basert
 DESCRIPTION:INF161\nForelesning \nForelesning -akt. basert.\nP. Parviainen\n\nHøyteknologisenteret: https://link.mazemap.com/34NC9sKG\nAktivt rom 2+3 - Marineholmen: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=351:105O1
 END:VEVENT
 BEGIN:VEVENT
-UID:10768c7278fe8304
-DTSTAMP:20250914T203735Z
+UID:10768c72f14a866c
+DTSTAMP:20250914T210940Z
 DTSTART:20251104T071500Z
 DTEND:20251104T090000Z
 LOCATION:Realfagbygget Auditorium 1
@@ -966,8 +966,8 @@ SUMMARY:MAT111 Forelesning
 DESCRIPTION:MAT111\nForelesning .\nB.I. Dundas\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nAuditorium 1: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:UC7B
 END:VEVENT
 BEGIN:VEVENT
-UID:10868c7278fe8311
-DTSTAMP:20250914T203735Z
+UID:10868c72f14a867a
+DTSTAMP:20250914T210940Z
 DTSTART:20251104T111500Z
 DTEND:20251104T130000Z
 LOCATION:Realfagbygget Seminarrom 1
@@ -975,8 +975,8 @@ SUMMARY:MAT111 Gruppe 02
 DESCRIPTION:MAT111\nGruppe 02 .\n\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nSeminarrom 1: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:1F11D
 END:VEVENT
 BEGIN:VEVENT
-UID:10968c7278fe831f
-DTSTAMP:20250914T203735Z
+UID:10968c72f14a8688
+DTSTAMP:20250914T210940Z
 DTSTART:20251104T111500Z
 DTEND:20251104T130000Z
 LOCATION:Realfagbygget Auditorium 4
@@ -984,8 +984,8 @@ SUMMARY:MAT221 Forelesning
 DESCRIPTION:MAT221\nForelesning .\nG. Fløystad\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nAuditorium 4: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:4E12F
 END:VEVENT
 BEGIN:VEVENT
-UID:11068c7278fe832d
-DTSTAMP:20250914T203735Z
+UID:11068c72f14a8696
+DTSTAMP:20250914T210940Z
 DTSTART:20251105T091500Z
 DTEND:20251105T110000Z
 LOCATION:Realfagbygget Auditorium 1
@@ -993,8 +993,8 @@ SUMMARY:MAT111 Forelesning
 DESCRIPTION:MAT111\nForelesning .\nB.I. Dundas\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nAuditorium 1: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:UC7B
 END:VEVENT
 BEGIN:VEVENT
-UID:11168c7278fe833b
-DTSTAMP:20250914T203735Z
+UID:11168c72f14a86a5
+DTSTAMP:20250914T210940Z
 DTSTART:20251106T131500Z
 DTEND:20251106T150000Z
 LOCATION:Høyteknologisenteret Aktivt rom 2+3 - Marineholmen
@@ -1002,8 +1002,8 @@ SUMMARY:INF161 Forelesning \nForelesning - akt. basert
 DESCRIPTION:INF161\nForelesning \nForelesning - akt. basert.\nP. Parviainen\n\nHøyteknologisenteret: https://link.mazemap.com/34NC9sKG\nAktivt rom 2+3 - Marineholmen: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=351:105O1
 END:VEVENT
 BEGIN:VEVENT
-UID:11268c7278fe834a
-DTSTAMP:20250914T203735Z
+UID:11268c72f14a86b4
+DTSTAMP:20250914T210940Z
 DTSTART:20251106T131500Z
 DTEND:20251106T150000Z
 LOCATION:Realfagbygget Auditorium 4
@@ -1011,8 +1011,8 @@ SUMMARY:MAT221 Forelesning
 DESCRIPTION:MAT221\nForelesning .\nG. Fløystad\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nAuditorium 4: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:4E12F
 END:VEVENT
 BEGIN:VEVENT
-UID:11368c7278fe8358
-DTSTAMP:20250914T203735Z
+UID:11368c72f14a86c2
+DTSTAMP:20250914T210940Z
 DTSTART:20251107T111500Z
 DTEND:20251107T130000Z
 LOCATION:Realfagbygget Auditorium 1
@@ -1020,8 +1020,8 @@ SUMMARY:MAT111 Seminar
 DESCRIPTION:MAT111\nSeminar .\n\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nAuditorium 1: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:UC7B
 END:VEVENT
 BEGIN:VEVENT
-UID:11468c7278fe8365
-DTSTAMP:20250914T203735Z
+UID:11468c72f14a86cf
+DTSTAMP:20250914T210940Z
 DTSTART:20251107T131500Z
 DTEND:20251107T150000Z
 LOCATION:Realfagbygget Seminarrom Pi i fjerde
@@ -1029,8 +1029,8 @@ SUMMARY:MAT111 Regneverksted
 DESCRIPTION:MAT111\nRegneverksted .\n\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nSeminarrom Pi i fjerde: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:4E15B
 END:VEVENT
 BEGIN:VEVENT
-UID:11568c7278fe8373
-DTSTAMP:20250914T203735Z
+UID:11568c72f14a86dc
+DTSTAMP:20250914T210940Z
 DTSTART:20251110T111500Z
 DTEND:20251110T130000Z
 LOCATION:Realfagbygget Seminarrom 1
@@ -1038,8 +1038,8 @@ SUMMARY:MAT221 Gruppe
 DESCRIPTION:MAT221\nGruppe .\n\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nSeminarrom 1: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:1F11D
 END:VEVENT
 BEGIN:VEVENT
-UID:11668c7278fe8381
-DTSTAMP:20250914T203735Z
+UID:11668c72f14a86eb
+DTSTAMP:20250914T210940Z
 DTSTART:20251111T071500Z
 DTEND:20251111T090000Z
 LOCATION:Høyteknologisenteret Aktivt rom 2+3 - Marineholmen
@@ -1047,8 +1047,8 @@ SUMMARY:INF161 Forelesning \nForelesning -akt. basert
 DESCRIPTION:INF161\nForelesning \nForelesning -akt. basert.\nP. Parviainen\n\nHøyteknologisenteret: https://link.mazemap.com/34NC9sKG\nAktivt rom 2+3 - Marineholmen: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=351:105O1
 END:VEVENT
 BEGIN:VEVENT
-UID:11768c7278fe8390
-DTSTAMP:20250914T203735Z
+UID:11768c72f14a86fa
+DTSTAMP:20250914T210940Z
 DTSTART:20251111T071500Z
 DTEND:20251111T090000Z
 LOCATION:Realfagbygget Auditorium 1
@@ -1056,8 +1056,8 @@ SUMMARY:MAT111 Forelesning
 DESCRIPTION:MAT111\nForelesning .\nB.I. Dundas\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nAuditorium 1: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:UC7B
 END:VEVENT
 BEGIN:VEVENT
-UID:11868c7278fe839d
-DTSTAMP:20250914T203735Z
+UID:11868c72f14a8708
+DTSTAMP:20250914T210940Z
 DTSTART:20251111T111500Z
 DTEND:20251111T130000Z
 LOCATION:Realfagbygget Seminarrom 1
@@ -1065,8 +1065,8 @@ SUMMARY:MAT111 Gruppe 02
 DESCRIPTION:MAT111\nGruppe 02 .\n\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nSeminarrom 1: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:1F11D
 END:VEVENT
 BEGIN:VEVENT
-UID:11968c7278fe83ab
-DTSTAMP:20250914T203735Z
+UID:11968c72f14a8715
+DTSTAMP:20250914T210940Z
 DTSTART:20251111T111500Z
 DTEND:20251111T130000Z
 LOCATION:Realfagbygget Auditorium 4
@@ -1074,8 +1074,8 @@ SUMMARY:MAT221 Forelesning
 DESCRIPTION:MAT221\nForelesning .\nG. Fløystad\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nAuditorium 4: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:4E12F
 END:VEVENT
 BEGIN:VEVENT
-UID:12068c7278fe83b9
-DTSTAMP:20250914T203735Z
+UID:12068c72f14a8724
+DTSTAMP:20250914T210940Z
 DTSTART:20251112T091500Z
 DTEND:20251112T110000Z
 LOCATION:Realfagbygget Auditorium 1
@@ -1083,8 +1083,8 @@ SUMMARY:MAT111 Forelesning
 DESCRIPTION:MAT111\nForelesning .\nB.I. Dundas\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nAuditorium 1: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:UC7B
 END:VEVENT
 BEGIN:VEVENT
-UID:12168c7278fe83cf
-DTSTAMP:20250914T203735Z
+UID:12168c72f14a8739
+DTSTAMP:20250914T210940Z
 DTSTART:20251113T131500Z
 DTEND:20251113T150000Z
 LOCATION:Høyteknologisenteret Aktivt rom 2+3 - Marineholmen
@@ -1092,8 +1092,8 @@ SUMMARY:INF161 Forelesning \nForelesning - akt. basert
 DESCRIPTION:INF161\nForelesning \nForelesning - akt. basert.\nP. Parviainen\n\nHøyteknologisenteret: https://link.mazemap.com/34NC9sKG\nAktivt rom 2+3 - Marineholmen: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=351:105O1
 END:VEVENT
 BEGIN:VEVENT
-UID:12268c7278fe83de
-DTSTAMP:20250914T203735Z
+UID:12268c72f14a8748
+DTSTAMP:20250914T210940Z
 DTSTART:20251113T131500Z
 DTEND:20251113T150000Z
 LOCATION:Realfagbygget Auditorium 4
@@ -1101,8 +1101,8 @@ SUMMARY:MAT221 Forelesning
 DESCRIPTION:MAT221\nForelesning .\nG. Fløystad\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nAuditorium 4: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:4E12F
 END:VEVENT
 BEGIN:VEVENT
-UID:12368c7278fe83eb
-DTSTAMP:20250914T203735Z
+UID:12368c72f14a8755
+DTSTAMP:20250914T210940Z
 DTSTART:20251114T111500Z
 DTEND:20251114T130000Z
 LOCATION:Realfagbygget Auditorium 1
@@ -1110,8 +1110,8 @@ SUMMARY:MAT111 Seminar
 DESCRIPTION:MAT111\nSeminar .\n\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nAuditorium 1: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:UC7B
 END:VEVENT
 BEGIN:VEVENT
-UID:12468c7278fe83f9
-DTSTAMP:20250914T203735Z
+UID:12468c72f14a8763
+DTSTAMP:20250914T210940Z
 DTSTART:20251114T131500Z
 DTEND:20251114T150000Z
 LOCATION:Realfagbygget Seminarrom Pi i fjerde
@@ -1119,8 +1119,8 @@ SUMMARY:MAT111 Regneverksted
 DESCRIPTION:MAT111\nRegneverksted .\n\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nSeminarrom Pi i fjerde: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:4E15B
 END:VEVENT
 BEGIN:VEVENT
-UID:12568c7278fe8407
-DTSTAMP:20250914T203735Z
+UID:12568c72f14a8771
+DTSTAMP:20250914T210940Z
 DTSTART:20251117T111500Z
 DTEND:20251117T130000Z
 LOCATION:Realfagbygget Seminarrom 1
@@ -1128,8 +1128,8 @@ SUMMARY:MAT221 Gruppe
 DESCRIPTION:MAT221\nGruppe .\n\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nSeminarrom 1: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:1F11D
 END:VEVENT
 BEGIN:VEVENT
-UID:12668c7278fe8415
-DTSTAMP:20250914T203735Z
+UID:12668c72f14a877f
+DTSTAMP:20250914T210940Z
 DTSTART:20251118T071500Z
 DTEND:20251118T090000Z
 LOCATION:Realfagbygget Auditorium 1
@@ -1137,8 +1137,8 @@ SUMMARY:MAT111 Forelesning
 DESCRIPTION:MAT111\nForelesning .\nB.I. Dundas\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nAuditorium 1: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:UC7B
 END:VEVENT
 BEGIN:VEVENT
-UID:12768c7278fe8423
-DTSTAMP:20250914T203735Z
+UID:12768c72f14a878c
+DTSTAMP:20250914T210940Z
 DTSTART:20251118T111500Z
 DTEND:20251118T130000Z
 LOCATION:Realfagbygget Seminarrom 1
@@ -1146,8 +1146,8 @@ SUMMARY:MAT111 Gruppe 02
 DESCRIPTION:MAT111\nGruppe 02 .\n\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nSeminarrom 1: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:1F11D
 END:VEVENT
 BEGIN:VEVENT
-UID:12868c7278fe8430
-DTSTAMP:20250914T203735Z
+UID:12868c72f14a879a
+DTSTAMP:20250914T210940Z
 DTSTART:20251118T111500Z
 DTEND:20251118T130000Z
 LOCATION:Realfagbygget Auditorium 4
@@ -1155,8 +1155,8 @@ SUMMARY:MAT221 Forelesning
 DESCRIPTION:MAT221\nForelesning .\nG. Fløystad\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nAuditorium 4: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:4E12F
 END:VEVENT
 BEGIN:VEVENT
-UID:12968c7278fe843f
-DTSTAMP:20250914T203735Z
+UID:12968c72f14a87a8
+DTSTAMP:20250914T210940Z
 DTSTART:20251119T091500Z
 DTEND:20251119T110000Z
 LOCATION:Realfagbygget Auditorium 1
@@ -1164,8 +1164,8 @@ SUMMARY:MAT111 Forelesning
 DESCRIPTION:MAT111\nForelesning .\nB.I. Dundas\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nAuditorium 1: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:UC7B
 END:VEVENT
 BEGIN:VEVENT
-UID:13068c7278fe844e
-DTSTAMP:20250914T203735Z
+UID:13068c72f14a87b6
+DTSTAMP:20250914T210940Z
 DTSTART:20251120T131500Z
 DTEND:20251120T150000Z
 LOCATION:Realfagbygget Auditorium 4
@@ -1173,8 +1173,8 @@ SUMMARY:MAT221 Forelesning
 DESCRIPTION:MAT221\nForelesning .\nG. Fløystad\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nAuditorium 4: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:4E12F
 END:VEVENT
 BEGIN:VEVENT
-UID:13168c7278fe845c
-DTSTAMP:20250914T203735Z
+UID:13168c72f14a87c7
+DTSTAMP:20250914T210940Z
 DTSTART:20251121T111500Z
 DTEND:20251121T130000Z
 LOCATION:Realfagbygget Auditorium 1
@@ -1182,8 +1182,8 @@ SUMMARY:MAT111 Seminar
 DESCRIPTION:MAT111\nSeminar .\n\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nAuditorium 1: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:UC7B
 END:VEVENT
 BEGIN:VEVENT
-UID:13268c7278fe846a
-DTSTAMP:20250914T203735Z
+UID:13268c72f14a87dd
+DTSTAMP:20250914T210940Z
 DTSTART:20251121T131500Z
 DTEND:20251121T150000Z
 LOCATION:Realfagbygget Seminarrom Pi i fjerde
@@ -1191,8 +1191,8 @@ SUMMARY:MAT111 Regneverksted
 DESCRIPTION:MAT111\nRegneverksted .\n\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nSeminarrom Pi i fjerde: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:4E15B
 END:VEVENT
 BEGIN:VEVENT
-UID:13368c7278fe8478
-DTSTAMP:20250914T203735Z
+UID:13368c72f14a87f5
+DTSTAMP:20250914T210940Z
 DTSTART:20251124T111500Z
 DTEND:20251124T130000Z
 LOCATION:Realfagbygget Seminarrom 1
@@ -1200,8 +1200,8 @@ SUMMARY:MAT221 Gruppe
 DESCRIPTION:MAT221\nGruppe .\n\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nSeminarrom 1: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:1F11D
 END:VEVENT
 BEGIN:VEVENT
-UID:13468c7278fe8486
-DTSTAMP:20250914T203735Z
+UID:13468c72f14a880b
+DTSTAMP:20250914T210940Z
 DTSTART:20251125T071500Z
 DTEND:20251125T090000Z
 LOCATION:Realfagbygget Auditorium 1
@@ -1209,8 +1209,8 @@ SUMMARY:MAT111 Forelesning
 DESCRIPTION:MAT111\nForelesning .\nB.I. Dundas\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nAuditorium 1: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:UC7B
 END:VEVENT
 BEGIN:VEVENT
-UID:13568c7278fe84a8
-DTSTAMP:20250914T203735Z
+UID:13568c72f14a881a
+DTSTAMP:20250914T210940Z
 DTSTART:20251125T111500Z
 DTEND:20251125T130000Z
 LOCATION:Realfagbygget Seminarrom 1
@@ -1218,8 +1218,8 @@ SUMMARY:MAT111 Gruppe 02
 DESCRIPTION:MAT111\nGruppe 02 .\n\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nSeminarrom 1: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:1F11D
 END:VEVENT
 BEGIN:VEVENT
-UID:13668c7278fe84b7
-DTSTAMP:20250914T203735Z
+UID:13668c72f14a8828
+DTSTAMP:20250914T210940Z
 DTSTART:20251125T111500Z
 DTEND:20251125T130000Z
 LOCATION:Realfagbygget Auditorium 4
@@ -1227,8 +1227,8 @@ SUMMARY:MAT221 Forelesning
 DESCRIPTION:MAT221\nForelesning .\nG. Fløystad\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nAuditorium 4: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:4E12F
 END:VEVENT
 BEGIN:VEVENT
-UID:13768c7278fe84c6
-DTSTAMP:20250914T203735Z
+UID:13768c72f14a8836
+DTSTAMP:20250914T210940Z
 DTSTART:20251126T091500Z
 DTEND:20251126T110000Z
 LOCATION:Realfagbygget Auditorium 1
@@ -1236,8 +1236,8 @@ SUMMARY:MAT111 Forelesning
 DESCRIPTION:MAT111\nForelesning .\nB.I. Dundas\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nAuditorium 1: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:UC7B
 END:VEVENT
 BEGIN:VEVENT
-UID:13868c7278fe84d4
-DTSTAMP:20250914T203735Z
+UID:13868c72f14a8844
+DTSTAMP:20250914T210940Z
 DTSTART:20251127T131500Z
 DTEND:20251127T150000Z
 LOCATION:Realfagbygget Auditorium 4
@@ -1245,8 +1245,8 @@ SUMMARY:MAT221 Forelesning
 DESCRIPTION:MAT221\nForelesning .\nG. Fløystad\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nAuditorium 4: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:4E12F
 END:VEVENT
 BEGIN:VEVENT
-UID:13968c7278fe84e3
-DTSTAMP:20250914T203735Z
+UID:13968c72f14a8853
+DTSTAMP:20250914T210940Z
 DTSTART:20251128T111500Z
 DTEND:20251128T130000Z
 LOCATION:Realfagbygget Auditorium 1
@@ -1254,8 +1254,8 @@ SUMMARY:MAT111 Seminar
 DESCRIPTION:MAT111\nSeminar .\n\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nAuditorium 1: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:UC7B
 END:VEVENT
 BEGIN:VEVENT
-UID:14068c7278fe84f0
-DTSTAMP:20250914T203735Z
+UID:14068c72f14a8861
+DTSTAMP:20250914T210940Z
 DTSTART:20251128T131500Z
 DTEND:20251128T150000Z
 LOCATION:Realfagbygget Seminarrom Pi i fjerde
@@ -1263,8 +1263,8 @@ SUMMARY:MAT111 Regneverksted
 DESCRIPTION:MAT111\nRegneverksted .\n\n\nRealfagbygget: https://link.mazemap.com/nIjudmLX\nSeminarrom Pi i fjerde: https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identifier&config=uib-bergen&sharepoi=308:4E15B
 END:VEVENT
 BEGIN:VEVENT
-UID:14168c7278fe8501
-DTSTAMP:20250914T203735Z
+UID:14168c72f14a8872
+DTSTAMP:20250914T210940Z
 DTSTART:20251128T140000Z
 DTEND:20251128T170000Z
 LOCATION:
@@ -1272,8 +1272,8 @@ SUMMARY:INF161 Mappevurdering og skriftlig skoleeksamen (INSPERA) \n
 DESCRIPTION:INF161\nMappevurdering og skriftlig skoleeksamen (INSPERA) \n.\n\n\n
 END:VEVENT
 BEGIN:VEVENT
-UID:14268c7278fe8518
-DTSTAMP:20250914T203735Z
+UID:14268c72f14a8889
+DTSTAMP:20250914T210940Z
 DTSTART:20251205T080000Z
 DTEND:20251205T120000Z
 LOCATION:
@@ -1281,8 +1281,8 @@ SUMMARY:MAT221 Skriftlig skoleeksamen (INSPERA) \n
 DESCRIPTION:MAT221\nSkriftlig skoleeksamen (INSPERA) \n.\n\n\n
 END:VEVENT
 BEGIN:VEVENT
-UID:14368c7278fe8525
-DTSTAMP:20250914T203735Z
+UID:14368c72f14a8896
+DTSTAMP:20250914T210940Z
 DTSTART:20251215T080000Z
 DTEND:20251215T120000Z
 LOCATION:
