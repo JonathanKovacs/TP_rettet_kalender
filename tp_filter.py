@@ -11,12 +11,12 @@ ICAL_SUBSCRIPTION_URL = os.getenv("TP_ICAL_URL", "")
 # What to keep for each course (only affects group-like items).
 # Lectures/Seminars/Workshops for listed courses are always kept.
 COURSE_KEEP_RULES: Dict[str, List[str]] = {
-    "INF102": ["time 7"],     # matches both "Aktiv time 7" and "Dropp-inn time 7"
-    "INF113": ["gruppe 4"],
-    "INF214": ["gruppe 1"],
-    "MAT111": ["gruppe 02"],
-    "MAT221": ["gruppe"],     # keep MAT221 group(s)
+    "MAT111": ["gruppe 02"],   # keep only your group, lectures, seminar, regneverksted
+    "MAT221": ["gruppe"],      # keep your group + lectures
+    "INF161": [],              # keep lectures, no groups needed
+    # everything else (INF102, INF113, INF214) excluded by not listing them
 }
+
 
 # Words that indicate group-like sessions
 GROUP_WORDS = [
