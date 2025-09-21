@@ -13,7 +13,7 @@ ICAL_SUBSCRIPTION_URL = os.getenv("TP_ICAL_URL", "")
 COURSE_KEEP_RULES: Dict[str, List[str]] = {
     "MAT111": ["gruppe 02"],   # keep only your group, lectures, seminar, regneverksted
     "MAT221": ["gruppe"],      # keep your group + lectures
-    "INF214": ["gruppe 1],              # keep lectures, no groups needed
+    "INF214": ["gruppe 1"],              # keep lectures, no groups needed
     # everything else (INF102, INF113, INF214) excluded by not listing them
 }
 
